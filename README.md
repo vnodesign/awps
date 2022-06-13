@@ -43,4 +43,4 @@ AWPS uses [Laravel Mix](https://laravel.com/docs/5.6/mix) for assets management.
 
 ## License
 
-[GPLv3](https://github.com/vnodesign/awps/LICENSE.txt)
+[GPLv3](https://github.com/vnodesign/awps/blob/master/LICENSE.txt)
