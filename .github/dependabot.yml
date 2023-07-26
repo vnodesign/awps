@@ -10,3 +10,9 @@ updates:
     schedule:
       interval: "daily"
       
+  - package-ecosystem: "composer"
+    # Look for a `Dockerfile` in the `root` directory
+    directory: "/"
+    # Check for updates once a week
+    schedule:
+      interval: "daily"
