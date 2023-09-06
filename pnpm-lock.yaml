@@ -15,8 +15,8 @@ devDependencies:
     specifier: ^4.24.0
     version: 4.24.0(webpack@5.88.2)
   '@wordpress/eslint-plugin':
-    specifier: ^15.0.0
-    version: 15.0.0(@babel/core@7.22.9)(eslint@8.46.0)(prettier@3.0.1)(typescript@5.1.6)
+    specifier: ^15.1.0
+    version: 15.1.0(@babel/core@7.22.9)(eslint@8.46.0)(prettier@3.0.1)(typescript@5.1.6)
   '@wordpress/prettier-config':
     specifier: ^2.24.0
     version: 2.24.0(prettier@3.0.1)
@@ -2072,8 +2072,8 @@ packages:
       '@babel/runtime': 7.22.6
     dev: true
 
-  /@wordpress/eslint-plugin@15.0.0(@babel/core@7.22.9)(eslint@8.46.0)(prettier@3.0.1)(typescript@5.1.6):
-    resolution: {integrity: sha512-XEHNW3YEjN+G8Di4Z8W0WL8m0y9uoBbw4MKmYV+u1whiEuS+s+D4nVmG/d+AH1tWJ17LzfZJTiSL6J09KCY4tg==}
+  /@wordpress/eslint-plugin@15.1.0(@babel/core@7.22.9)(eslint@8.46.0)(prettier@3.0.1)(typescript@5.1.6):
+    resolution: {integrity: sha512-iKc8YnakbOWUh7b5A79XhZ9nIJfkHmKAkluxd56kwmKhhn1dfreRaCXpjjBk9E170axKmkHPqFar4xEMy9kO7A==}
     engines: {node: '>=14', npm: '>=6.14.4'}
     peerDependencies:
       '@babel/core': '>=7'
