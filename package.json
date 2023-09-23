@@ -32,7 +32,7 @@
   "homepage": "https://github.com/Alecaddd/awps#readme",
   "devDependencies": {
     "@tinypixelco/laravel-mix-wp-blocks": "^1.2.0",
-    "@wordpress/babel-preset-default": "^7.25.0",
+    "@wordpress/babel-preset-default": "^7.26.0",
     "@wordpress/dependency-extraction-webpack-plugin": "^4.25.0",
     "@wordpress/eslint-plugin": "^16.0.0",
     "@wordpress/prettier-config": "^2.25.0",
