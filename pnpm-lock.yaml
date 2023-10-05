@@ -18,8 +18,8 @@ devDependencies:
     specifier: ^16.0.0
     version: 16.0.0(@babel/core@7.22.9)(eslint@8.46.0)(prettier@3.0.1)(typescript@5.1.6)
   '@wordpress/prettier-config':
-    specifier: ^2.25.0
-    version: 2.25.0(prettier@3.0.1)
+    specifier: ^3.0.0
+    version: 3.0.0(prettier@3.0.1)
   jquery:
     specifier: ^3.7.1
     version: 3.7.1
@@ -2195,6 +2195,15 @@ packages:
     engines: {node: '>=14'}
     peerDependencies:
       prettier: '>=2'
+    dependencies:
+      prettier: 3.0.1
+    dev: true
+
+  /@wordpress/prettier-config@3.0.0(prettier@3.0.1):
+    resolution: {integrity: sha512-A2pOt3W2DwBvTPqAC8G6riOAIJvMUPuYV2lg2+zFHWcaWUdtEpi+iwoiI0yugspi+x83w9h6sXGqkC2q+Hfxlg==}
+    engines: {node: '>=14'}
+    peerDependencies:
+      prettier: '>=3'
     dependencies:
       prettier: 3.0.1
     dev: true
