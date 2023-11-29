@@ -18,8 +18,8 @@ devDependencies:
     specifier: ^17.2.0
     version: 17.2.0(@babel/core@7.22.9)(eslint@8.46.0)(prettier@3.0.1)(typescript@5.1.6)
   '@wordpress/prettier-config':
-    specifier: ^3.3.0
-    version: 3.3.0(prettier@3.0.1)
+    specifier: ^3.4.0
+    version: 3.4.0(prettier@3.0.1)
   jquery:
     specifier: ^3.7.1
     version: 3.7.1
@@ -2124,7 +2124,7 @@ packages:
       '@typescript-eslint/eslint-plugin': 6.7.2(@typescript-eslint/parser@6.7.2)(eslint@8.46.0)(typescript@5.1.6)
       '@typescript-eslint/parser': 6.7.2(eslint@8.46.0)(typescript@5.1.6)
       '@wordpress/babel-preset-default': 7.29.0
-      '@wordpress/prettier-config': 3.3.0(prettier@3.0.1)
+      '@wordpress/prettier-config': 3.4.0(prettier@3.0.1)
       cosmiconfig: 7.1.0
       eslint: 8.46.0
       eslint-config-prettier: 8.10.0(eslint@8.46.0)
@@ -2148,8 +2148,8 @@ packages:
       - supports-color
     dev: true
 
-  /@wordpress/prettier-config@3.3.0(prettier@3.0.1):
-    resolution: {integrity: sha512-G0HoubSikorLtXs0CZ0TNGbhKImCr+Ztg0HQUKv683r+yiZBOQV1igk7TaHOmIaf6702Bt4E3++IoAQN8Nr5ew==}
+  /@wordpress/prettier-config@3.4.0(prettier@3.0.1):
+    resolution: {integrity: sha512-6qawlZqqbe6NDY0txzsPZThRFAXzf0a891wI/A4KNWVKUXQwTluXWMtGZx3xlFtvkX+9ZHdoqXbWysGQztiBOQ==}
     engines: {node: '>=14'}
     peerDependencies:
       prettier: '>=3'
