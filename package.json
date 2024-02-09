@@ -33,7 +33,7 @@
   "devDependencies": {
     "@tinypixelco/laravel-mix-wp-blocks": "^1.2.0",
     "@wordpress/babel-preset-default": "^7.34.0",
-    "@wordpress/dependency-extraction-webpack-plugin": "^4.29.0",
+    "@wordpress/dependency-extraction-webpack-plugin": "^5.2.0",
     "@wordpress/eslint-plugin": "^17.2.0",
     "@wordpress/prettier-config": "^3.3.0",
     "jquery": "^3.7.1",
