@@ -4,7 +4,7 @@
   "description": "Alecaddd WordPress Starter Theme for savvy developers",
   "main": "index.js",
   "prettier": "@wordpress/prettier-config",
-  "packageManager": "pnpm@8.15.9",
+  "packageManager": "pnpm@9.12.2",
   "scripts": {
     "dev": "mix",
     "development": "mix",
